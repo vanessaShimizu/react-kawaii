@@ -1,7 +1,7 @@
 # React Kawaii
 
 <div align="center" markdown="1">
-  <img src="https://raw.githubusercontent.com/miukimiu/react-kawaii/master/docs/images/react-kawaii-logo%402x.png" width="450">
+  <img src="http://icons.iconarchive.com/icons/firstfear/whistlepuff/256/usb-icon.png" width="450">
 </div>
 
 React Kawaii is a library of cute SVG illustrations (react components). Ideal if you want to give some cuteness and personality to your react application.
